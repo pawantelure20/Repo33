@@ -1,21 +1,4 @@
-body {
-    background-color: #f0f0f0;
-    text-align: center;
-    font-family: Arial;
-}
-
 h1 {
     color: blue;
 }
 
-p {
-    color: gray;
-}
-
-button {
-    padding: 10px 20px;
-    background-color: green;
-    color: white;
-    border: none;
-    cursor: pointer;
-}
